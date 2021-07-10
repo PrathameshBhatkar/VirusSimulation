@@ -19,7 +19,7 @@ On Windows or Mac OS X, locate the "VirusSimulatorMASTER.py" file and double-cli
 
 Othewise open a terminal / console and "cd" to the 'VirusSimulation' directory and run:
 
-  python run_game.py
+  python VirusSimulatorMASTER.py
 
 
 
