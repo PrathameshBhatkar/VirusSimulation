@@ -1,2 +1,2 @@
-# VirusSimulation
+# VirusSimulator
 Can simulate any viruses
