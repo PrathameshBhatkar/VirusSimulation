@@ -13,7 +13,7 @@ You might need to install some of these before running the simulatior:
 
 
 
-RUNNING THE Simulator:
+RUNNING THE SIMULATOR:
 
 On Windows or Mac OS X, locate the "VirusSimulatorMASTER.py" file and double-click it.
 
