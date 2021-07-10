@@ -2,9 +2,6 @@
 Can simulate any viruses
 you can think of
 
-Virus Simulator
-============
-
 DEPENDENCIES:
 
 You might need to install some of these before running the simulatior:
